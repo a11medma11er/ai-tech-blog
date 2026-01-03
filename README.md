@@ -429,14 +429,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- **Documentation**: [Full Docs](AI_BLOGGING_PIPELINE.md)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-tech-blog/issues)
-- **Email**: support@example.com
-
----
-
 **Built with ❤️ using Laravel, Filament, and AI**
 
 *Last Updated: January 2026*
